@@ -1,0 +1,12 @@
+.formProfile  .ant-card .ant-card-body{
+    background-color: #fafafa;
+    padding: 0 24px;
+}
+
+.formProfile .ant-card-body .ant-card{
+    border: none;
+}
+
+.formProfile .ant-card-body .ant-card .ant-card-body{
+    padding: 24px 0;
+}
